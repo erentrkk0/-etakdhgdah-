@@ -1,0 +1,30 @@
+{
+  "name": "five-discord-v14-advanced-register",
+  "version": "1.0.0",
+  "description": "Beş v14 Advanced Register / Kayıt Botu",
+  "main": "beş.js",
+  "scripts": {
+    "start": "node beş.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "author": "Beş",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@discordjs/formatters": "^0.2.0",
+    "@discordjs/rest": "^2.0.0",
+    "@discordjs/voice": "^0.15.0",
+    "canvafy": "^0.0.5",
+    "canvas": "^2.11.0",
+    "carnoxisdbyaml": "^0.0.3",
+    "discord-api-types": "^0.37.52",
+    "discord-giveaways": "^6.0.1",
+    "discord.js": "^14.8.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "ms": "^2.1.3",
+    "rachedb": "^0.0.1"
+  },
+  "keywords": []
+}
